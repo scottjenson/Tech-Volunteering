@@ -1,8 +1,6 @@
 # Tech Volunteering Resources
 A list of resources to help you find a tech based volunteer opportunity
 
-If you have other resources, email scott@jenson.org and I'll add it.
-
 [Catchafire](https://www.catchafire.org/volunteer-explore/)  
 Lasting change through action.
 We bring together government, philanthropy, business, and volunteers to elevate the work of nonprofits.
@@ -23,3 +21,7 @@ America's premier team of volunteer technology professionals - Connecting Commun
 
 [CorrelAid](https://www.correlaid.org/en/)  
 Our goal is to empower data analysts and support collaboration with civil society through responsible and ethical data practices. In addition to respectful and non-discriminatory behavior, we value transparency, pragmatism, and self-determination.
+
+# Contributing
+If you have other resources, email scott@jenson.org and I'll add it.
+You can also just do a PR if you'd prefer
