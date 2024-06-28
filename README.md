@@ -1,7 +1,7 @@
 # Tech Volunteering Resources
 A list of resources to help you find a tech based volunteer opportunity
 
-If you have other resources, please edit this page and submit a PR
+If you have other resources, email scott@jenson.org and I'll add it.
 
 [Catchafire](https://www.catchafire.org/volunteer-explore/)  
 Lasting change through action.
