@@ -22,6 +22,12 @@ America's premier team of volunteer technology professionals - Connecting Commun
 [CorrelAid](https://www.correlaid.org/en/)  
 Our goal is to empower data analysts and support collaboration with civil society through responsible and ethical data practices. In addition to respectful and non-discriminatory behavior, we value transparency, pragmatism, and self-determination.
 
+[Remap](https://remap.org.uk/)  
+REMAP’s mission is to improve the quality of life for people who experience short or long-term disability through infirmity, illness, or ageing. We do this by making and adapting equipment to meet the unique needs of individuals at no cost to them.
+
+[Senior Expert Service](https://ses-bonn.de/en/about-us/objectives)  
+The SES is Germany’s leading volunteering organisation for experts and executives who are either retired or taking some time off work. The SES has been helping people to help themselves since 1983 – all around the world, in every industry and sector.
+
 # Contributing
 If you have other resources, email scott@jenson.org and I'll add it.
 You can also just do a PR if you'd prefer
